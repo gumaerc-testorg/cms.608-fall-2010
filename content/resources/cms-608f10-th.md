@@ -9,8 +9,8 @@ image_metadata:
   credit: ''
   image-alt: Five students sit around a table, playing a board game.
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: cms-608f10-th.jpg
-type: OCWImage
 uid: 706e9d08-de12-388a-d5da-7a880543d215
 ---

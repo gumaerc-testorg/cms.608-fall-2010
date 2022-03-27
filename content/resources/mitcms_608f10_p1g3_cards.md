@@ -6,10 +6,11 @@ file: /media/courses/cms-608-game-design-fall-2010/ff1c2a349f3d6ec128938c8ecef3a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 04e3e79b-63d9-a5b7-8d34-739dfbf35194
 resourcetype: Document
 title: MITCMS_608F10_p1g3_cards.pdf
-type: OCWFile
 uid: ff1c2a34-9f3d-6ec1-2893-8c8ecef3a9e7
 ---

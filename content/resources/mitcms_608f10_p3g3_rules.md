@@ -5,10 +5,11 @@ file: /media/courses/cms-608-game-design-fall-2010/fa4e603c31311496033e20af0dab0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 04e3e79b-63d9-a5b7-8d34-739dfbf35194
 resourcetype: Document
 title: MITCMS_608F10_p3g3_rules.pdf
-type: OCWFile
 uid: fa4e603c-3131-1496-033e-20af0dab09ec
 ---
