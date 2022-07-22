@@ -5,6 +5,7 @@ file: /courses/cms-608-game-design-fall-2010/d12f2af86da6bdfc312c55fadcfa4555_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITCMS_608F10_p3g3_cards.pdf
 uid: d12f2af8-6da6-bdfc-312c-55fadcfa4555
 ---
 This resource contains information related to keep your cool: cards.
-

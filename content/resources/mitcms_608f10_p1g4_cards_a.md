@@ -5,6 +5,7 @@ file: /courses/cms-608-game-design-fall-2010/c46251034d42d701d9751f61d70eb223_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITCMS_608F10_p1g4_cards_a.pdf
 uid: c4625103-4d42-d701-d975-1f61d70eb223
 ---
 This resource contains information related to family dysfunction: cards.
-

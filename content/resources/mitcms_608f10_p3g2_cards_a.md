@@ -6,6 +6,7 @@ file: /courses/cms-608-game-design-fall-2010/270e6474a7b8c147cf86da251aac4bfd_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITCMS_608F10_p3g2_cards_a.pdf
 uid: 270e6474-a7b8-c147-cf86-da251aac4bfd
 ---
 This resource contains information related to I can't get no satisfaction: cards.
-

@@ -5,6 +5,7 @@ file: /courses/cms-608-game-design-fall-2010/d1050bf24d4e6bdafece2662eb8018e7_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITCMS_608F10_p2g1_cards.pdf
 uid: d1050bf2-4d4e-6bda-fece-2662eb8018e7
 ---
 This resource contains information related to black hat: cards.
-

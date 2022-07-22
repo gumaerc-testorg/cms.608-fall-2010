@@ -5,6 +5,7 @@ file: /courses/cms-608-game-design-fall-2010/e4d3ecd534503f0b729de83d0720764e_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITCMS_608F10_p1g1_rules.pdf
 uid: e4d3ecd5-3450-3f0b-729d-e83d0720764e
 ---
 This resource contains information related to a wizard did It: rules.
-

@@ -6,6 +6,7 @@ file: /courses/cms-608-game-design-fall-2010/f4a9306fa4b08748a12672d99179d01d_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITCMS_608F10_p3g1_chars.pdf
 uid: f4a9306f-a4b0-8748-a126-72d99179d01d
 ---
 This resource contains information related to patience with patients: chars.
-

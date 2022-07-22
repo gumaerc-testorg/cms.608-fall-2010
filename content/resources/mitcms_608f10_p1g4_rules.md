@@ -5,6 +5,7 @@ file: /courses/cms-608-game-design-fall-2010/5899cad42cfa857447be1b2b968e1b75_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITCMS_608F10_p1g4_rules.pdf
 uid: 5899cad4-2cfa-8574-47be-1b2b968e1b75
 ---
 This resource contains information related to family dysfunction: rules.
-
