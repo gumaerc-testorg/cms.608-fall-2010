@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: This page contains audio recordings of most lecture sessions.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Audio
@@ -30,7 +31,7 @@ videos:
   website: cms-608-game-design-fall-2010
 ---
 
-Recordings of selected lectures are available below. All guest lectures are used with permission. Assigned readings and lecture slides (if any) for these sessions are listed under the Related Resources tab of each recording. A full schedule of reading assignments is given on the [Study Materials]({{< baseurl >}}/pages/study-materials) page.
+Recordings of selected lectures are available below. All guest lectures are used with permission. Assigned readings and lecture slides (if any) for these sessions are listed under the Related Resources tab of each recording. A full schedule of reading assignments is given on the {{% resource_link 9877e6f8-5c59-20e9-014b-efbb4974d516 "Study Materials" %}} page.
 
 Textbook
 --------

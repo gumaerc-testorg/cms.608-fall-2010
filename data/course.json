@@ -28,7 +28,9 @@
   },
   "course_title": "Game Design",
   "course_description": "This course provides practical instruction in the design and analysis of non-digital games. Students cover the texts, tools, references and historical context to analyze and compare game designs across a variety of genres, including sports, game shows, games of chance, card games, schoolyard games, board games, and role\u2013playing games. In teams, students design, develop, and thoroughly test their original games to understand the interaction and evolution of game rules. Students taking the graduate version complete additional assignments.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "CMS.864",
   "primary_course_number": "CMS.608",
   "course_image_thumbnail": {
@@ -39,6 +41,7 @@
     "Lecture Audio",
     "Projects with Examples"
   ],
-  "site_uid": "0e934bcc-b345-44b1-835a-e6100838f154",
+  "site_uid": "dc9dd4de-4779-4fa5-afda-9bd0ee499ed9",
+  "short_id": "cms.608-fall-2010",
   "title": "Course Metadata"
 }
