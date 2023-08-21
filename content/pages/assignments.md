@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains details on the three group projects assigned during
+  the semester, and examples for each one.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -41,7 +43,7 @@ Files
 Jeremy Rossman, Brian Basham, Andrew Sugaya, Andres Lopez-Pineda. "A Wizard Did It..."
 {{< tdclose >}}
 {{< tdopen >}}
-Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g1_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mitcms_608f10_p1g1_cards))
+Rules ({{% resource_link e4d3ecd5-3450-3f0b-729d-e83d0720764e "PDF" %}}), Cards ({{% resource_link 1c853f15-ec81-3338-777b-520268c7508b "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,7 +52,7 @@ Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g1_rules)), Cards (![This
 Jason Strauss, et al. "The Game of Conquest."
 {{< tdclose >}}
 {{< tdopen >}}
-Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g3_rules)), Cards ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g3_cards))
+Rules ({{% resource_link 59a712ed-88c0-7bad-5a22-a0cb466074db "PDF" %}}), Cards ({{% resource_link ff1c2a34-9f3d-6ec1-2893-8c8ecef3a9e7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +61,7 @@ Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g3_rules)), Cards ([PDF](
 Michele Pratusevich, Patrick Rodriguez, Justin Zhang, et al. "Family Dysfunction."
 {{< tdclose >}}
 {{< tdopen >}}
-Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g4_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 8.2MB]({{< baseurl >}}/resources/mitcms_608f10_p1g4_cards_a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 7.5MB]({{< baseurl >}}/resources/mitcms_608f10_p1g4_cards_b))
+Rules ({{% resource_link 5899cad4-2cfa-8574-47be-1b2b968e1b75 "PDF" %}}), Cards ({{% resource_link c4625103-4d42-d701-d975-1f61d70eb223 "PDF 1 of 2 - 8.2MB" %}}) ({{% resource_link 079fd8d4-9c5e-2ece-a74e-34edf520aea0 "PDF 2 of 2 - 7.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +100,7 @@ Files
 Alec Thomson, Andrew Sugaya, et al. "Black Hat."
 {{< tdclose >}}
 {{< tdopen >}}
-Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_cards)), Board (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_board))
+Rules ({{% resource_link 8887b944-6a25-a76d-2b1f-561586b1ed38 "PDF" %}}), Cards ({{% resource_link d1050bf2-4d4e-6bda-fece-2662eb8018e7 "PDF" %}}), Board ({{% resource_link f01df193-934e-11a4-15dc-bed865c8155b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +109,7 @@ Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_rules)), Cards (![This
 Michele Pratusevich, Brian Basham, Jason Strauss, et al. "Tough Luck, Dodo."
 {{< tdclose >}}
 {{< tdopen >}}
-Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g2_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB]({{< baseurl >}}/resources/mitcms_608f10_p2g2_cards))
+Rules ({{% resource_link 2ed0463b-3e2e-c0f7-1bff-244ce0813cba "PDF" %}}), Cards ({{% resource_link 63b19ed9-81c7-87cf-b5ad-a1fe1962961f "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +148,7 @@ Files
 Andres Lopez-Pineda, Alec Thomson, Owen Macindoe, Jayson Lynch. "Patience With Patients"
 {{< tdclose >}}
 {{< tdopen >}}
-Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g1_rules)), Cards ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g1_cards)), Character Sheets ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g1_chars)), Words ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g1_words))
+Rules ({{% resource_link d55061fa-88a8-78de-741a-63fba17a1a51 "PDF" %}}), Cards ({{% resource_link 395bdebb-d652-3d85-0c7c-13f34d64c25a "PDF" %}}), Character Sheets ({{% resource_link f4a9306f-a4b0-8748-a126-72d99179d01d "PDF" %}}), Words ({{% resource_link 4b62b6d6-e8dd-97d7-8987-717a1444e90f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +157,7 @@ Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g1_rules)), Cards ([PDF](
 Michele Pratusevich, Andrew Sugaya, Ian Ynda-Hummel, et al. "I Can't Get No Satisfaction."
 {{< tdclose >}}
 {{< tdopen >}}
-Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g2_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 7.9MB]({{< baseurl >}}/resources/mitcms_608f10_p3g2_cards_a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 9.9MB]({{< baseurl >}}/resources/mitcms_608f10_p3g2_cards_b))
+Rules ({{% resource_link 3c5f7982-340b-19c4-fac8-d05e5ea93b2e "PDF" %}}), Cards ({{% resource_link 270e6474-a7b8-c147-cf86-da251aac4bfd "PDF 1 of 2 - 7.9MB" %}}) ({{% resource_link 1aed8aa5-ec16-eb47-52ac-733dea596b3d "PDF 2 of 2 - 9.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +166,7 @@ Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g2_rules)), Cards (![This
 Brian Basham, Jeremy Rossman, Jason Strauss, et al. "Keep Your Cool."
 {{< tdclose >}}
 {{< tdopen >}}
-Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g3_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g3_cards))
+Rules ({{% resource_link fa4e603c-3131-1496-033e-20af0dab09ec "PDF" %}}), Cards ({{% resource_link d12f2af8-6da6-bdfc-312c-55fadcfa4555 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
