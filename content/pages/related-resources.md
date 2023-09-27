@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains articles, books, and online resources about game design
+  and analysis.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -28,7 +30,7 @@ Curry, Andrew. "[Monopoly Killer: Perfect German Board Game Redefines Genre](htt
 
 Costikyan, Greg. "[Randomness: Blight or Bane?](http://playthisthing.com/randomness-blight-or-bane)" Austin, TX: Game Developers Conference, 2009.
 
-[Game Ontology Project (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://users.soe.ucsc.edu/~michaelm/publications/zagal-worlds-in-play-2007.pdf)
+[Game Ontology Project (PDF)](https://users.soe.ucsc.edu/~michaelm/publications/zagal-worlds-in-play-2007.pdf)
 
 Frasca, Gonzalo. "[Simulation 101: Simulation versus Representation](http://www.ludology.org/articles/sim1/simulation101.html)."
 

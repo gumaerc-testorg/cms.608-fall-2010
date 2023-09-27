@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page include information on the course meeting times, description,
+  requirements and grading scheme, required textbook, and other course policies.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
