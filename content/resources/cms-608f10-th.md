@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/cms-608-game-design-fall-2010/706e9d08de12388ad5da7a880543d215_cms-608f10-th.jpg
+file_size: 7563
 file_type: image/jpeg
 image_metadata:
   caption: Students test "Black Hat", a board game where players attempt to hack the
