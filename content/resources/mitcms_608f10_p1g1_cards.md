@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to a wizard did It: cards.'
 file: /courses/cms-608-game-design-fall-2010/1c853f15ec813338777b520268c7508b_MITCMS_608F10_p1g1_cards.pdf
+file_size: 1278526
 file_type: application/pdf
 learning_resource_types:
 - Assignments
