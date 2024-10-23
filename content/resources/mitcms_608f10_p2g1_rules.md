@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to black hat: rules.'
-file: /courses/cms-608-game-design-fall-2010/8887b9446a25a76d2b1f561586b1ed38_MITCMS_608F10_p2g1_rules.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-fall-2010/8887b9446a25a76d2b1f561586b1ed38_MITCMS_608F10_p2g1_rules.pdf
 file_size: 124609
 file_type: application/pdf
 learning_resource_types:

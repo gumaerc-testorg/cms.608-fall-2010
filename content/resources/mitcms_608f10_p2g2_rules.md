@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to tough luck, dodo: rules.'
-file: /courses/cms-608-game-design-fall-2010/2ed0463b3e2ec0f71bff244ce0813cba_MITCMS_608F10_p2g2_rules.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-fall-2010/2ed0463b3e2ec0f71bff244ce0813cba_MITCMS_608F10_p2g2_rules.pdf
 file_size: 76218
 file_type: application/pdf
 learning_resource_types:
