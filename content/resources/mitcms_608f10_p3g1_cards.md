@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to patience with patients:
   cards.'
-file: /courses/cms-608-game-design-fall-2010/395bdebbd6523d850c7c13f34d64c25a_MITCMS_608F10_p3g1_cards.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-fall-2010/395bdebbd6523d850c7c13f34d64c25a_MITCMS_608F10_p3g1_cards.pdf
 file_size: 126873
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to I can''t get no satisfaction:
   cards.'
-file: /courses/cms-608-game-design-fall-2010/270e6474a7b8c147cf86da251aac4bfd_MITCMS_608F10_p3g2_cards_a.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-fall-2010/270e6474a7b8c147cf86da251aac4bfd_MITCMS_608F10_p3g2_cards_a.pdf
 file_size: 8244455
 file_type: application/pdf
 learning_resource_types:
