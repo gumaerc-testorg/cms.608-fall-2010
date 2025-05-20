@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to family dysfunction: rules.'
-file: /ol-ocw-studio-app/courses/cms-608-game-design-fall-2010/5899cad42cfa857447be1b2b968e1b75_MITCMS_608F10_p1g4_rules.pdf
+file: /courses/cms-608-game-design-fall-2010/5899cad42cfa857447be1b2b968e1b75_MITCMS_608F10_p1g4_rules.pdf
 file_size: 68687
 file_type: application/pdf
 learning_resource_types:
