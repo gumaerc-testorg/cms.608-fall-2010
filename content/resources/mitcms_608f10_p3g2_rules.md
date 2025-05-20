@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to I can''t get no satisfaction:
   rules.'
-file: /ol-ocw-studio-app/courses/cms-608-game-design-fall-2010/3c5f7982340b19c4fac8d05e5ea93b2e_MITCMS_608F10_p3g2_rules.pdf
+file: /courses/cms-608-game-design-fall-2010/3c5f7982340b19c4fac8d05e5ea93b2e_MITCMS_608F10_p3g2_rules.pdf
 file_size: 41434
 file_type: application/pdf
 learning_resource_types:

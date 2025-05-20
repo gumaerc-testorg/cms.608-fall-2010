@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to family dysfunction: cards.'
-file: /ol-ocw-studio-app/courses/cms-608-game-design-fall-2010/c46251034d42d701d9751f61d70eb223_MITCMS_608F10_p1g4_cards_a.pdf
+file: /courses/cms-608-game-design-fall-2010/c46251034d42d701d9751f61d70eb223_MITCMS_608F10_p1g4_cards_a.pdf
 file_size: 8582632
 file_type: application/pdf
 learning_resource_types:
