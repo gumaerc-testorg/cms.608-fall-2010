@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to keep your cool: cards.'
-file: /ol-ocw-studio-app/courses/cms-608-game-design-fall-2010/d12f2af86da6bdfc312c55fadcfa4555_MITCMS_608F10_p3g3_cards.pdf
+file: /courses/cms-608-game-design-fall-2010/d12f2af86da6bdfc312c55fadcfa4555_MITCMS_608F10_p3g3_cards.pdf
 file_size: 175250
 file_type: application/pdf
 learning_resource_types:
