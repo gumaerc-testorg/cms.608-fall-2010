@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to the game of conquest:
   rules.'
-file: /courses/cms-608-game-design-fall-2010/59a712ed88c07bad5a22a0cb466074db_MITCMS_608F10_p1g3_rules.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-fall-2010/59a712ed88c07bad5a22a0cb466074db_MITCMS_608F10_p1g3_rules.pdf
 file_size: 59835
 file_type: application/pdf
 learning_resource_types:

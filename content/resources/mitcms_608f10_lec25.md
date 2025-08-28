@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to fiction and stories in
   games.
-file: /courses/cms-608-game-design-fall-2010/e3ebba23e891d9c8b460990153940627_MITCMS_608F10_lec25.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-fall-2010/e3ebba23e891d9c8b460990153940627_MITCMS_608F10_lec25.pdf
 file_size: 2095022
 file_type: application/pdf
 learning_resource_types: []
