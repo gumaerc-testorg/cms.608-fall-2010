@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to patience with patients:
   chars.'
-file: /courses/cms-608-game-design-fall-2010/f4a9306fa4b08748a12672d99179d01d_MITCMS_608F10_p3g1_chars.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-fall-2010/f4a9306fa4b08748a12672d99179d01d_MITCMS_608F10_p3g1_chars.pdf
 file_size: 77199
 file_type: application/pdf
 learning_resource_types:

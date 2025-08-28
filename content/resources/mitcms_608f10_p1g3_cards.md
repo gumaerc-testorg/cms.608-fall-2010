@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to the game of conquest:
   cards.'
-file: /courses/cms-608-game-design-fall-2010/ff1c2a349f3d6ec128938c8ecef3a9e7_MITCMS_608F10_p1g3_cards.pdf
+file: /ol-ocw-studio-app/courses/cms-608-game-design-fall-2010/ff1c2a349f3d6ec128938c8ecef3a9e7_MITCMS_608F10_p1g3_cards.pdf
 file_size: 73368
 file_type: application/pdf
 learning_resource_types:
