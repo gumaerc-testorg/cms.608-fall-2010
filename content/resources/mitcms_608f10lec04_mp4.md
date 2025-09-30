@@ -29,4 +29,4 @@ video_metadata:
 ---
 **Description:** Before games come to market, they undergo several tests: Are there technical glitches? Can players easily get started? Is the gameplay what the designers intended? Sara Verrilli discusses how and why to conduct focus testing.
 
-**Instructors/speakers:** Philip Tan, Jason Begy, Sara Verrilli ([Singapore-MIT GAMBIT Game Lab](http://gambit.mit.edu/))
+**Instructors/speakers:** Philip Tan, Jason Begy, Sara Verrilli ({{% resource_link "a25786b8-49ec-4969-9f0e-cb0bc69c4eff" "Singapore-MIT GAMBIT Game Lab" %}})
